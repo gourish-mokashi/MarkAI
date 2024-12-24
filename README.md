@@ -74,27 +74,6 @@ The ultimate goal of MarkAI is to integrate its watermarking system into many ge
 
 ---
 
-## How to Contribute
-
-MarkAI is an open-source project, and contributions are welcome!
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your commit message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a Pull Request.
-
----
-
 ## License
 
 MarkAI is licensed under the [MIT License](LICENSE).
