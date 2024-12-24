@@ -1,4 +1,4 @@
-# MarkAI
+# MarkAI ![MIT License](https://img.shields.io/badge/License-MIT-green) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 MarkAI is an AI-generated image Detection System. It comprises two primary tools:
 
@@ -99,4 +99,3 @@ For any inquiries or contributions, reach out to:
 ## Acknowledgments
 
 Special thanks to all contributors and the open-source community for their support and inspiration.
-
