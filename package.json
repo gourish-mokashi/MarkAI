@@ -11,7 +11,7 @@
     "start": "concurrently  \"npm run start-backend\" \"npm run start-frontend\"",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
     "predeploy": "npm run build && pip install -r requirements.txt && python app.py",
     "deploy": "gh-pages -d dist"
   },
