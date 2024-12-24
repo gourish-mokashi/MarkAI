@@ -70,7 +70,7 @@ The ultimate goal of MarkAI is to integrate its watermarking system into many ge
    ```
 
 4. Access the Application:
-   - Open [http://localhost:3000](http://localhost:5173) in your browser.
+   - Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
